@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MataUang</string>
+    <string name="hasil">Nilai Rupiah : %s</string>
+</resources>
